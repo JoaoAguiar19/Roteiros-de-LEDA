@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-07-10T22:31:10.862-0300</date>
+  <logger>JOAO GABRIEL DE AGUIAR</logger>
+  <level>FINE</level>
+  <message>File 124111123-JOAO GABRIEL DE AGUIAR.zip was received. It was sent by JOAO GABRIEL DE AGUIAR from IP 192.168.2.103 at 10-07-2025 22*31*10</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-07-11T08:13:06.225-0300</date>
+  <logger>JOAO GABRIEL DE AGUIAR</logger>
+  <level>FINE</level>
+  <message>File 124111123-JOAO GABRIEL DE AGUIAR.zip was received. It was sent by JOAO GABRIEL DE AGUIAR from IP 150.165.74.33 at 11-07-2025 08*13*06</message>
+</record>
